@@ -1,12 +1,12 @@
 [package]
 name = "schemamama"
-version = "0.3.0"
-authors = ["Skyler Lipthay <skyler.lipthay@gmail.com>"]
+version = "0.4.0"
+authors = ["Skyler Lipthay <skyler.lipthay@gmail.com>", "Erich Schudt <erich_schudt@live.com>"]
 description = "A lightweight database schema migration system"
 readme = "README.md"
 keywords = ["database", "migration"]
 license = "MIT"
-repository = "https://github.com/SkylerLipthay/schemamama"
+repository = "https://github.com/eschudt/schemamama"
 
 [dependencies]
 log = "0.4"
